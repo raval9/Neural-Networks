@@ -1,0 +1,12 @@
+Python Course
+Python: 1
+Course: 1
+
+Deep Learning CourseDeep: 1
+Learning: 1
+Course: 1
+
+Word_Count:
+Deep: 1
+Learning: 1
+Course: 1
