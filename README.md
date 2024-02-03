@@ -9,6 +9,4 @@ Assignment Video - 3
 https://drive.google.com/file/d/1jCsHoqEaRlVydOFSC7rGrWxGa_96zPxm/view?usp=drive_link ![image](https://github.com/raval9/Neural-Networks/assets/123529887/26c0e995-7a8d-46ba-8c5b-d2dacf4ea963)
 
 Assignment Video - 4
-https://drive.google.com/file/d/1wEJAlPlbvDpw5OWMXTukE8drGwSgco2u/view?usp=drive_link 
-
-![image](https://github.com/raval9/Neural-Networks/assets/123529887/64b17d7c-af21-46f3-9979-5652c4ba2c5d)
+https://drive.google.com/file/d/1wEJAlPlbvDpw5OWMXTukE8drGwSgco2u/view?usp=drive_link ![image](https://github.com/raval9/Neural-Networks/assets/123529887/64b17d7c-af21-46f3-9979-5652c4ba2c5d)
