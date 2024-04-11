@@ -22,3 +22,6 @@ https://drive.google.com/file/d/1glMuLwUmImg6j41Ly0SA14bhIa9foZNq/view?usp=drive
 
 Assignment Video - 9
 https://drive.google.com/file/d/1v7ZVY5yPnxf5_t2SQtTSJvHEBhSf_Gdz/view?usp=drive_link 
+
+quiz
+https://drive.google.com/file/d/1xZra0RKLLmCWwtLFiza9JDidBek9-QKG/view?usp=drive_link
